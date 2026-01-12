@@ -51,9 +51,7 @@ F(x) = sin(x)
 
 - **Prior:** Shows the assumed mean and kernel-based uncertainty before seeing data.  
 - **Posterior:** Updates predictions with observed data, providing predictive intervals.
-
-This demonstrates **your ability to design and implement GP regression**, including **kernel selection, mean functions, posterior sampling, and visualization**.
-
+  
 ---
 
 ## Features
